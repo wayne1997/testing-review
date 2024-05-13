@@ -13,3 +13,10 @@
 3. En el testing del api, considerar cambiar el usuario que se quiera crear.
 
 ## Recursos
+
+1. GitHub : https://github.com/wayne1997/testing-review.git
+
+## Levantar el ambiente
+1. Instalar los paquetes de Node
+2. Usar el comando npm run cypress:open
+3. Seleccionar el navegador.
